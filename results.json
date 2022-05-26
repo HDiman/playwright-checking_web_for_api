@@ -1,0 +1,737 @@
+[
+  {
+    "url": "https://www.adidas.ru/X1jtj5jGuleh/Uh8hH0/94ZE2U/wa9QJtii3QtO/MipNNQ/LilhNTo1/HEg",
+    "data": {
+      "success": true
+    }
+  },
+  {
+    "url": "https://www.adidas.ru/api/dw-content/fetch-usp-url",
+    "data": []
+  },
+  {
+    "url": "https://www.adidas.ru/api/search/product/HB6244",
+    "data": {
+      "_links": {
+        "self": {
+          "href": "/product"
+        }
+      },
+      "id": "HB6244",
+      "link": "/noski-terrex-cold.rdy-wool/HB6244.html",
+      "price": 2399,
+      "badgeStyle": "soldout",
+      "badgeText": "\u0420\u0430\u0441\u043f\u0440\u043e\u0434\u0430\u043d",
+      "salePrice": 2399,
+      "image": {
+        "cloudinary": true,
+        "src": "https://assets.adidas.com/images/w_280,h_280,f_auto,q_auto:sensitive/c55af262b3bf4778aa57ada1004a5d6f_9366/noski-terrex-cold.rdy-wool.jpg"
+      },
+      "secondImage": {
+        "cloudinary": true,
+        "src": "https://assets.adidas.com/images/w_280,h_280,f_auto,q_auto:sensitive/b03fe804ab1c4ad58059ae590110df6b_9366/noski-terrex-cold.rdy-wool.jpg"
+      },
+      "color": "Black / White",
+      "modelId": "NQ341",
+      "orderable": false,
+      "isFlash": false,
+      "isFinalSale": false,
+      "isSpecialLaunch": false,
+      "specialLaunchType": "NONE",
+      "events": [],
+      "pdpImage": {
+        "cloudinary": true,
+        "src": "https://assets.adidas.com/images/w_280,h_280,f_auto,q_auto:sensitive/254f819e8d7443e5a7f0ada1004a7a36_9366/noski-terrex-cold.rdy-wool.jpg"
+      },
+      "images": []
+    }
+  },
+  {
+    "url": "https://www.adidas.ru/api/search/product/GX5393",
+    "data": {
+      "_links": {
+        "self": {
+          "href": "/product"
+        }
+      },
+      "id": "GX5393",
+      "link": "/krossovki-dlia-khaikinga-terrex-swift-r3-gore-tex/GX5393.html",
+      "price": 18999,
+      "badgeStyle": "soldout",
+      "badgeText": "\u0420\u0430\u0441\u043f\u0440\u043e\u0434\u0430\u043d",
+      "salePrice": 18999,
+      "image": {
+        "cloudinary": true,
+        "src": "https://assets.adidas.com/images/w_280,h_280,f_auto,q_auto:sensitive/a641e94b27564b03ad46adb700f550c3_9366/krossovki-dlia-khaikinga-terrex-swift-r3-gore-tex.jpg"
+      },
+      "secondImage": {
+        "cloudinary": true,
+        "src": "https://assets.adidas.com/images/w_280,h_280,f_auto,q_auto:sensitive/9552166402e443509853adbe01155b8f_9366/krossovki-dlia-khaikinga-terrex-swift-r3-gore-tex.jpg"
+      },
+      "color": "Core Black / Grey Five / Acid Red",
+      "modelId": "KYX31",
+      "orderable": false,
+      "isFlash": false,
+      "isFinalSale": false,
+      "isSpecialLaunch": false,
+      "specialLaunchType": "NONE",
+      "events": [],
+      "pdpImage": {
+        "cloudinary": true,
+        "src": "https://assets.adidas.com/images/w_280,h_280,f_auto,q_auto:sensitive/148bb152ef16438288c0adb700f4f0be_9366/krossovki-dlia-khaikinga-terrex-swift-r3-gore-tex.jpg"
+      },
+      "images": []
+    }
+  },
+  {
+    "url": "https://www.adidas.ru/api/search/product/GP2636",
+    "data": {
+      "_links": {
+        "self": {
+          "href": "/product"
+        }
+      },
+      "id": "GP2636",
+      "link": "/uteplennyi-anorak-terrex-myshelter-primaloft-parley/GP2636.html",
+      "price": 22999,
+      "badgeStyle": "soldout",
+      "badgeText": "\u0420\u0430\u0441\u043f\u0440\u043e\u0434\u0430\u043d",
+      "salePrice": 22999,
+      "image": {
+        "cloudinary": true,
+        "src": "https://assets.adidas.com/images/w_280,h_280,f_auto,q_auto:sensitive/8b47efe0213b4b56a80fadb300df7fd5_9366/uteplennyi-anorak-terrex-myshelter-primaloft-parley.jpg"
+      },
+      "secondImage": {
+        "cloudinary": true,
+        "src": "https://assets.adidas.com/images/w_280,h_280,f_auto,q_auto:sensitive/fbfbce23bcb348969640adb200917d69_9366/uteplennyi-anorak-terrex-myshelter-primaloft-parley.jpg"
+      },
+      "color": "Non Dyed",
+      "modelId": "A7485",
+      "orderable": false,
+      "isFlash": false,
+      "isFinalSale": false,
+      "isSpecialLaunch": false,
+      "specialLaunchType": "NONE",
+      "events": [],
+      "pdpImage": {
+        "cloudinary": true,
+        "src": "https://assets.adidas.com/images/w_280,h_280,f_auto,q_auto:sensitive/8b47efe0213b4b56a80fadb300df7fd5_9366/uteplennyi-anorak-terrex-myshelter-primaloft-parley.jpg"
+      },
+      "images": []
+    }
+  },
+  {
+    "url": "https://www.adidas.ru/X1jtj5jGuleh/Uh8hH0/94ZE2U/wa9QJtii3QtO/MipNNQ/LilhNTo1/HEg",
+    "data": {
+      "success": true
+    }
+  },
+  {
+    "url": "https://www.adidas.ru/personalizationengine",
+    "data": {
+      "meta": {
+        "code": 200,
+        "monetateId": "5.1028456241.1653557252769"
+      },
+      "data": {
+        "responses": [
+          {
+            "requestId": "940348266",
+            "actions": [
+              {
+                "impressionReporting": [
+                  {
+                    "is_control": false,
+                    "has_targets": false,
+                    "tags": [
+                      "Default"
+                    ],
+                    "experience_type": "100% Experience",
+                    "experience_name": "CMS Passthrough",
+                    "experience_id": 892833,
+                    "experience_label": "CMS-Passthrough_892833",
+                    "variant_label": "Experiment",
+                    "control_allocation": 0.0
+                  }
+                ],
+                "endpoint": "https://api.adidas-group.com/page/?publication_path=/ruRU&url=/dot-com/terrex/index.html&filters=(brand_ru_ru:terrex)",
+                "actionType": "monetate:action:CmsAction",
+                "isControl": false,
+                "data": {
+                  "component_presentations": [
+                    {
+                      "order_on_page": 0,
+                      "component": {
+                        "supporting_fields": {
+                          "supporting_fields": {
+                            "standard_metadata": {
+                              "style_overrides": {
+                                "display_styles": [
+                                  "display-style-white",
+                                  "text-style-justify-centre"
+                                ]
+                              },
+                              "created_for": "adidas Web",
+                              "analytics_name": "Top USP Bar list",
+                              "tags": "{\"tags\":[]}"
+                            }
+                          }
+                        },
+                        "id": "tcm:224-647367",
+                        "component_type": "Core Schema - Component List",
+                        "content_fields": {
+                          "items": [
+                            {
+                              "statement_text": "\u041c\u044b \u043f\u0440\u0438\u043e\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u043c \u0440\u0430\u0431\u043e\u0442\u0443 \u0440\u043e\u0437\u043d\u0438\u0447\u043d\u044b\u0445 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432, \u0441\u0430\u0439\u0442\u0430 \u0438 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0434\u043e \u0434\u0430\u043b\u044c\u043d\u0435\u0439\u0448\u0435\u0433\u043e \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u044f.\n<br><br>\n\u0412\u044b \u0441\u043c\u043e\u0436\u0435\u0442\u0435 \u043f\u0440\u043e\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0442\u044c \u0442\u043e\u0432\u0430\u0440 \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 \u0438 \u0432 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0438, \u043d\u043e \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u044f \u0437\u0430\u043a\u0430\u0437\u0430 \u0432 \u0434\u0430\u043d\u043d\u044b\u0439 \u043c\u043e\u043c\u0435\u043d\u0442 \u043d\u0435\u0434\u043e\u0441\u0442\u0443\u043f\u043d\u0430.\n<br><br>\n\u0421 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u043c\u0438 \u0432\u043e\u0437\u0432\u0440\u0430\u0442\u0430 \u0438 \u043e\u0431\u043c\u0435\u043d\u0430 \u0442\u043e\u0432\u0430\u0440\u0430 \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043e\u0437\u043d\u0430\u043a\u043e\u043c\u0438\u0442\u044c\u0441\u044f \u0432 \u0440\u0430\u0437\u0434\u0435\u043b\u0435 <a title=\"\u00ab\u043f\u043e\u043c\u043e\u0449\u044c\u00bb\" target=\"_blank\" href=\"https://adidas.ru/help\">\u00ab\u043f\u043e\u043c\u043e\u0449\u044c\u00bb</a> \u0438\u043b\u0438 \u043e\u0431\u0440\u0430\u0442\u0438\u0442\u044c\u0441\u044f \u0432 <a title=\"\u043a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u0438\u0439 \u0441\u0435\u0440\u0432\u0438\u0441 adidas\" target=\"_blank\" href=\"https://www.adidas.ru/help/informatciya-o-kompanii/kontakti\">\u043a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u0438\u0439 \u0441\u0435\u0440\u0432\u0438\u0441 adidas</a>.",
+                              "supporting_fields": {
+                                "supporting_fields": {
+                                  "standard_metadata": {
+                                    "created_for": "adidas Web",
+                                    "analytics_name": "usp-temporary-suspension-RU",
+                                    "tags": "{\"tags\":[]}"
+                                  }
+                                }
+                              },
+                              "id": "tcm:224-861111",
+                              "calls_to_action": [
+                                {
+                                  "target": "default",
+                                  "title": "\u0420\u0410\u0411\u041e\u0422\u0410 \u0421\u0410\u0419\u0422\u0410 \u0412\u0420\u0415\u041c\u0415\u041d\u041d\u041e \u041f\u0420\u0418\u041e\u0421\u0422\u0410\u041d\u041e\u0412\u041b\u0415\u041d\u0410",
+                                  "cta_text": "\u0420\u0410\u0411\u041e\u0422\u0410 \u0421\u0410\u0419\u0422\u0410 \u0412\u0420\u0415\u041c\u0415\u041d\u041d\u041e \u041f\u0420\u0418\u041e\u0421\u0422\u0410\u041d\u041e\u0412\u041b\u0415\u041d\u0410",
+                                  "icon_id": "alert-info",
+                                  "supporting_fields": {
+                                    "supporting_fields": {
+                                      "standard_metadata": {
+                                        "analytics_name": "usp-temporary-suspension-RU"
+                                      }
+                                    }
+                                  },
+                                  "id": "tcm:224-861109",
+                                  "external_link": "#modal"
+                                }
+                              ],
+                              "title": "\u0420\u0410\u0411\u041e\u0422\u0410 \u0421\u0410\u0419\u0422\u0410 \u0412\u0420\u0415\u041c\u0415\u041d\u041d\u041e \u041f\u0420\u0418\u041e\u0421\u0422\u0410\u041d\u041e\u0412\u041b\u0415\u041d\u0410"
+                            }
+                          ],
+                          "background_colour": "0,0,0,1"
+                        }
+                      },
+                      "template_metadata": {
+                        "region": "1",
+                        "component_type": "ComponentList",
+                        "template": "usp-bar"
+                      }
+                    },
+                    {
+                      "order_on_page": 1,
+                      "component": {
+                        "supporting_fields": {
+                          "supporting_fields": {
+                            "standard_metadata": {
+                              "style_overrides": {
+                                "display_styles": [
+                                  "display-style-white",
+                                  "plp-page-region-above"
+                                ]
+                              },
+                              "analytics_name": "temporary-suspension-plp-statement"
+                            }
+                          }
+                        },
+                        "id": "tcm:224-861171",
+                        "component_type": "Core Schema - Statement",
+                        "content_fields": {
+                          "statement_text": "\u041c\u044b \u043f\u0440\u0438\u043e\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u043c \u0440\u0430\u0431\u043e\u0442\u0443 \u0440\u043e\u0437\u043d\u0438\u0447\u043d\u044b\u0445 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432, \u0441\u0430\u0439\u0442\u0430 \u0438 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0434\u043e \u0434\u0430\u043b\u044c\u043d\u0435\u0439\u0448\u0435\u0433\u043e \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u044f.\n<br><br>\n\u0412\u044b \u0441\u043c\u043e\u0436\u0435\u0442\u0435 \u043f\u0440\u043e\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0442\u044c \u0442\u043e\u0432\u0430\u0440 \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 \u0438 \u0432 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0438, \u043d\u043e \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u044f \u0437\u0430\u043a\u0430\u0437\u0430 \u0432 \u0434\u0430\u043d\u043d\u044b\u0439 \u043c\u043e\u043c\u0435\u043d\u0442 \u043d\u0435\u0434\u043e\u0441\u0442\u0443\u043f\u043d\u0430.\n<br><br>\n\u0421 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u043c\u0438 \u0432\u043e\u0437\u0432\u0440\u0430\u0442\u0430 \u0438 \u043e\u0431\u043c\u0435\u043d\u0430 \u0442\u043e\u0432\u0430\u0440\u0430 \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043e\u0437\u043d\u0430\u043a\u043e\u043c\u0438\u0442\u044c\u0441\u044f \u0432 \u0440\u0430\u0437\u0434\u0435\u043b\u0435 \u00ab\u043f\u043e\u043c\u043e\u0449\u044c\u00bb \u0438\u043b\u0438 \u043e\u0431\u0440\u0430\u0442\u0438\u0442\u044c\u0441\u044f \u0432 \u043a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u0438\u0439 \u0441\u0435\u0440\u0432\u0438\u0441 adidas.",
+                          "background_colour": "0,0,0,1",
+                          "calls_to_action": [
+                            {
+                              "target": "default",
+                              "title": "\u041f\u043e\u043c\u043e\u0449\u044c",
+                              "cta_text": "\u041f\u043e\u043c\u043e\u0449\u044c",
+                              "supporting_fields": {
+                                "supporting_fields": {
+                                  "standard_metadata": {
+                                    "style_overrides": {
+                                      "display_styles": "buttons-primary-light"
+                                    },
+                                    "analytics_name": "\u041f\u043e\u043c\u043e\u0449\u044c /help"
+                                  }
+                                }
+                              },
+                              "id": "tcm:224-861117",
+                              "external_link": "/help"
+                            }
+                          ],
+                          "title": "\u041c\u044b \u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e \u043f\u0440\u0438\u043e\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u043c \u0440\u0430\u0431\u043e\u0442\u0443 \u0441\u0430\u0439\u0442\u0430 \u0438 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f"
+                        }
+                      },
+                      "template_metadata": {
+                        "region": "1",
+                        "component_type": "Statement",
+                        "template": "Statement"
+                      }
+                    }
+                  ],
+                  "version": 8.0,
+                  "title": "default - Product Listing Page",
+                  "publication_path": "/ruRU",
+                  "uri": "/ruRU/dot-com/_defaults/default-ProductListingPage.html",
+                  "regions": [
+                    {
+                      "id": "1",
+                      "name": "Dummy Region"
+                    }
+                  ],
+                  "revision_date": "2022-03-09T13:53:26.000Z",
+                  "last_published_date": "2022-03-13T20:45:24.217Z",
+                  "id": "tcm:224-426606-64",
+                  "metadata": {
+                    "metadata_tags": [
+                      {
+                        "tag_name": "canonical",
+                        "tag_content": "https://www.adidas.ru/terrex"
+                      },
+                      {
+                        "tag_name": "description",
+                        "tag_content": "Terrex \u2013 \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u043d\u043e \u0438 \u043d\u0430\u0434\u0435\u0436\u043d\u043e, \u0442\u0443\u0440\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0434\u043b\u044f \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0438\u0445 \u0443\u043b\u0438\u0446. \u0417\u0430\u043a\u0430\u0436\u0438 \u043e\u0434\u0435\u0436\u0434\u0443 \u0438 \u043e\u0431\u0443\u0432\u044c Terrex \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 adidas \u0441 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u043e\u0439 \u043f\u043e \u0432\u0441\u0435\u0439 \u0420\u043e\u0441\u0441\u0438\u0438."
+                      },
+                      {
+                        "tag_name": "robots",
+                        "tag_content": "index,follow,noydir,noodp,archive"
+                      }
+                    ],
+                    "og_image": null,
+                    "page_category": null,
+                    "h2_overwrite": null,
+                    "disable_in_page_nav": "false",
+                    "internalLinks": [
+                      {
+                        "url": "https://www.adidas.ru/obuv-basketbol",
+                        "title": "\u0431\u0430\u0441\u043a\u0435\u0442\u0431\u043e\u043b\u044c\u043d\u044b\u0435 \u043a\u0440\u043e\u0441\u0441\u043e\u0432\u043a\u0438"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/shorty-basketbol",
+                        "title": "\u0431\u0430\u0441\u043a\u0435\u0442\u0431\u043e\u043b\u044c\u043d\u044b\u0435 \u0448\u043e\u0440\u0442\u044b"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/odezhda-basketbol",
+                        "title": "\u0431\u0430\u0441\u043a\u0435\u0442\u0431\u043e\u043b\u044c\u043d\u0430\u044f \u0444\u043e\u0440\u043c\u0430"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/razdelnye_kupalniki",
+                        "title": "\u0440\u0430\u0437\u0434\u0435\u043b\u044c\u043d\u044b\u0435 \u043a\u0443\u043f\u0430\u043b\u044c\u043d\u0438\u043a\u0438"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/slitnye_kupalniki",
+                        "title": "\u0441\u043b\u0438\u0442\u043d\u044b\u0435 \u043a\u0443\u043f\u0430\u043b\u044c\u043d\u0438\u043a\u0438"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/chernyi-riukzaki",
+                        "title": "\u0447\u0435\u0440\u043d\u044b\u0439 \u0440\u044e\u043a\u0437\u0430\u043a"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/chernyi-shorty",
+                        "title": "\u0447\u0435\u0440\u043d\u044b\u0435 \u0448\u043e\u0440\u0442\u044b"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/chernyi-briuki",
+                        "title": "\u0447\u0435\u0440\u043d\u044b\u0435 \u0441\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u044b\u0435 \u0448\u0442\u0430\u043d\u044b"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/chernyi-tolstovki",
+                        "title": "\u0447\u0435\u0440\u043d\u044b\u0435 \u0442\u043e\u043b\u0441\u0442\u043e\u0432\u043a\u0438"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/chernyi-krossovki",
+                        "title": "\u0447\u0435\u0440\u043d\u044b\u0435 \u043a\u0440\u043e\u0441\u0441\u043e\u0432\u043a\u0438"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/bombery",
+                        "title": "\u0431\u043e\u043c\u0431\u0435\u0440\u044b"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/chernyi-kurtki_i_zhilety",
+                        "title": "\u0447\u0435\u0440\u043d\u044b\u0435 \u043a\u0443\u0440\u0442\u043a\u0438"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/obuv-skalolazanie",
+                        "title": "\u0441\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u0442\u0443\u0444\u043b\u0438"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/zhilety",
+                        "title": "\u0436\u0438\u043b\u0435\u0442\u044b"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/krop_topy",
+                        "title": "\u043a\u0440\u043e\u043f-\u0442\u043e\u043f\u044b"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/obuv-gore_tex",
+                        "title": "\u043e\u0431\u0443\u0432\u044c gore tex"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/sportivnye_kostiumy",
+                        "title": "\u0441\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u044b\u0435 \u043a\u043e\u0441\u0442\u044e\u043c\u044b"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/chernyi-sportivnye_kostiumy",
+                        "title": "\u0447\u0435\u0440\u043d\u044b\u0435 \u0441\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u044b\u0435 \u043a\u043e\u0441\u0442\u044e\u043c\u044b"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/belyi-sportivnye_kostiumy",
+                        "title": "\u0431\u0435\u043b\u044b\u0435 \u0441\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u044b\u0435 \u043a\u043e\u0441\u0442\u044e\u043c\u044b"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/seryi-sportivnye_kostiumy",
+                        "title": "\u0441\u0435\u0440\u044b\u0435 \u0441\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u044b\u0435 \u043a\u043e\u0441\u0442\u044e\u043c\u044b"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/krasnyi-sportivnye_kostiumy",
+                        "title": "\u043a\u0440\u0430\u0441\u043d\u044b\u0435 \u0441\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u044b\u0435 \u043a\u043e\u0441\u0442\u044e\u043c\u044b"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/dzhoggery",
+                        "title": "\u0434\u0436\u043e\u0433\u0433\u0435\u0440\u044b"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/kombinezony",
+                        "title": "\u043a\u043e\u043c\u0431\u0438\u043d\u0435\u0437\u043e\u043d\u044b"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/longclivy",
+                        "title": "\u043b\u043e\u043d\u0433\u0441\u043b\u0438\u0432\u044b"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/futbolki",
+                        "title": "\u0444\u0443\u0442\u0431\u043e\u043b\u043a\u0438"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/belyi-futbolki",
+                        "title": "\u0431\u0435\u043b\u044b\u0435 \u0444\u0443\u0442\u0431\u043e\u043b\u043a\u0438"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/chernyi-futbolki",
+                        "title": "\u0447\u0435\u0440\u043d\u044b\u0435 \u0444\u0443\u0442\u0431\u043e\u043b\u043a\u0438"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/tolstovki",
+                        "title": "\u0442\u043e\u043b\u0441\u0442\u043e\u0432\u043a\u0438"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/belyi-tolstovki",
+                        "title": "\u0431\u0435\u043b\u044b\u0435 \u0442\u043e\u043b\u0441\u0442\u043e\u0432\u043a\u0438"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/dozhdeviki",
+                        "title": "\u0434\u043e\u0436\u0434\u0435\u0432\u0438\u043a\u0438"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/steganye_kurtki",
+                        "title": "\u0441\u0442\u0435\u0433\u0430\u043d\u044b\u0435 \u043a\u0443\u0440\u0442\u043a\u0438"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/sumki_cherez_plecho",
+                        "title": "\u0441\u0443\u043c\u043a\u0438 \u0447\u0435\u0440\u0435\u0437 \u043f\u043b\u0435\u0447\u043e"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/sportivnye_sumki",
+                        "title": "\u0441\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u044b\u0435 \u0441\u0443\u043c\u043a\u0438"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/napulsniki",
+                        "title": "\u043d\u0430\u043f\u0443\u043b\u044c\u0441\u043d\u0438\u043a\u0438"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/maiki",
+                        "title": "\u043c\u0430\u0439\u043a\u0438"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/poviazki",
+                        "title": "\u043f\u043e\u0432\u044f\u0437\u043a\u0438"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/krossovki-boks",
+                        "title": "\u043a\u0440\u043e\u0441\u0441\u043e\u0432\u043a\u0438 \u0434\u043b\u044f \u0431\u043e\u043a\u0441\u0430"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/obuv-dlia_trekinga",
+                        "title": "\u0442\u0440\u0435\u043a\u043a\u0438\u043d\u0433\u043e\u0432\u0430\u044f \u043e\u0431\u0443\u0432\u044c"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/odezhda-tennis",
+                        "title": "\u043e\u0434\u0435\u0436\u0434\u0430 \u0434\u043b\u044f \u0442\u0435\u043d\u043d\u0438\u0441\u0430"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/krossovki-tennis",
+                        "title": "\u043a\u0440\u043e\u0441\u0441\u043e\u0432\u043a\u0438 \u0434\u043b\u044f \u0442\u0435\u043d\u043d\u0438\u0441\u0430"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/obuv-basketbol",
+                        "title": "\u0431\u0430\u0441\u043a\u0435\u0442\u0431\u043e\u043b\u044c\u043d\u044b\u0435 \u043a\u0440\u043e\u0441\u0441\u043e\u0432\u043a\u0438"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/shorty-basketbol",
+                        "title": "\u0431\u0430\u0441\u043a\u0435\u0442\u0431\u043e\u043b\u044c\u043d\u044b\u0435 \u0448\u043e\u0440\u0442\u044b"
+                      }
+                    ],
+                    "above_the_fold": "\u0412 \u044d\u043a\u0438\u043f\u0438\u0440\u043e\u0432\u043a\u0435 Terrex \u043f\u043b\u043e\u0445\u0430\u044f \u043f\u043e\u0433\u043e\u0434\u0430 \u043d\u0435 \u043f\u0440\u0435\u043f\u044f\u0442\u0441\u0442\u0432\u0438\u0435 \u043d\u0430 \u043f\u0443\u0442\u0438! \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u043d\u0430\u044f \u043e\u0434\u0435\u0436\u0434\u0430 \u0438 \u043e\u0431\u0443\u0432\u044c \u0441\u043e\u0437\u0434\u0430\u043d\u0430 \u0434\u043b\u044f \u0430\u043a\u0442\u0438\u0432\u043d\u043e\u0433\u043e \u0442\u0435\u0431\u044f.",
+                    "h1_overwrite": "Terrex",
+                    "renderForBot": true,
+                    "seo_copy_read_more": null,
+                    "auth_required": "false",
+                    "url": "/ruru/dot-com/terrex/index.html",
+                    "title": "\u041e\u0434\u0435\u0436\u0434\u0430 \u0438 \u043e\u0431\u0443\u0432\u044c Terrex | adidas \u0420\u043e\u0441\u0441\u0438\u044f",
+                    "hreflangs": [
+                      {
+                        "url": "https://www.adidas.com.ar/terrex",
+                        "langRegionCode": "es-AR"
+                      },
+                      {
+                        "url": "https://www.adidas.at/terrex",
+                        "langRegionCode": "de-AT"
+                      },
+                      {
+                        "url": "https://www.adidas.com.au/terrex",
+                        "langRegionCode": "en-AU"
+                      },
+                      {
+                        "url": "https://www.adidas.be/en/terrex",
+                        "langRegionCode": "en-BE"
+                      },
+                      {
+                        "url": "https://www.adidas.be/fr/terrex",
+                        "langRegionCode": "fr-BE"
+                      },
+                      {
+                        "url": "https://www.adidas.be/nl/terrex",
+                        "langRegionCode": "nl-BE"
+                      },
+                      {
+                        "url": "https://www.adidas.com.br/terrex",
+                        "langRegionCode": "pt-BR"
+                      },
+                      {
+                        "url": "https://www.adidas.ca/en/terrex",
+                        "langRegionCode": "en-CA"
+                      },
+                      {
+                        "url": "https://www.adidas.ca/fr/terrex",
+                        "langRegionCode": "fr-CA"
+                      },
+                      {
+                        "url": "https://www.adidas.ch/de/terrex",
+                        "langRegionCode": "de-CH"
+                      },
+                      {
+                        "url": "https://www.adidas.ch/en/terrex",
+                        "langRegionCode": "en-CH"
+                      },
+                      {
+                        "url": "https://www.adidas.ch/fr/terrex",
+                        "langRegionCode": "fr-CH"
+                      },
+                      {
+                        "url": "https://www.adidas.ch/it/terrex",
+                        "langRegionCode": "it-CH"
+                      },
+                      {
+                        "url": "https://www.adidas.cl/terrex",
+                        "langRegionCode": "es-CL"
+                      },
+                      {
+                        "url": "https://www.adidas.co/terrex",
+                        "langRegionCode": "es-CO"
+                      },
+                      {
+                        "url": "https://www.adidas.cz/terrex",
+                        "langRegionCode": "cs-CZ"
+                      },
+                      {
+                        "url": "https://www.adidas.de/terrex",
+                        "langRegionCode": "de-DE"
+                      },
+                      {
+                        "url": "https://www.adidas.de/en/terrex",
+                        "langRegionCode": "en-DE"
+                      },
+                      {
+                        "url": "https://www.adidas.dk/terrex",
+                        "langRegionCode": "da-DK"
+                      },
+                      {
+                        "url": "https://www.adidas.es/terrex",
+                        "langRegionCode": "es-ES"
+                      },
+                      {
+                        "url": "https://www.adidas.fi/terrex",
+                        "langRegionCode": "en-FI"
+                      },
+                      {
+                        "url": "https://www.adidas.fr/terrex",
+                        "langRegionCode": "fr-FR"
+                      },
+                      {
+                        "url": "https://www.adidas.gr/terrex",
+                        "langRegionCode": "el-GR"
+                      },
+                      {
+                        "url": "https://www.adidas.ie/terrex",
+                        "langRegionCode": "en-IE"
+                      },
+                      {
+                        "url": "https://www.adidas.co.in/terrex",
+                        "langRegionCode": "en-IN"
+                      },
+                      {
+                        "url": "https://www.adidas.it/terrex",
+                        "langRegionCode": "it-IT"
+                      },
+                      {
+                        "url": "https://www.adidas.co.kr/terrex",
+                        "langRegionCode": "ko-KR"
+                      },
+                      {
+                        "url": "https://www.adidas.mx/terrex",
+                        "langRegionCode": "es-MX"
+                      },
+                      {
+                        "url": "https://www.adidas.com.my/en/terrex",
+                        "langRegionCode": "en-MY"
+                      },
+                      {
+                        "url": "https://www.adidas.nl/terrex",
+                        "langRegionCode": "nl-NL"
+                      },
+                      {
+                        "url": "https://www.adidas.no/terrex",
+                        "langRegionCode": "no-NO"
+                      },
+                      {
+                        "url": "https://www.adidas.co.nz/terrex",
+                        "langRegionCode": "en-NZ"
+                      },
+                      {
+                        "url": "https://www.adidas.pe/terrex",
+                        "langRegionCode": "es-PE"
+                      },
+                      {
+                        "url": "https://www.adidas.com.ph/terrex",
+                        "langRegionCode": "en-PH"
+                      },
+                      {
+                        "url": "https://www.adidas.pl/terrex",
+                        "langRegionCode": "pl-PL"
+                      },
+                      {
+                        "url": "https://www.adidas.pt/terrex",
+                        "langRegionCode": "pt-PT"
+                      },
+                      {
+                        "url": "https://www.adidas.ru/terrex",
+                        "langRegionCode": "ru-RU"
+                      },
+                      {
+                        "url": "https://www.adidas.se/terrex",
+                        "langRegionCode": "sv-SE"
+                      },
+                      {
+                        "url": "https://www.adidas.com.sg/terrex",
+                        "langRegionCode": "en-SG"
+                      },
+                      {
+                        "url": "https://www.adidas.sk/terrex",
+                        "langRegionCode": "sk-SK"
+                      },
+                      {
+                        "url": "https://www.adidas.co.th/en/terrex",
+                        "langRegionCode": "en-TH"
+                      },
+                      {
+                        "url": "https://www.adidas.co.th/th/terrex",
+                        "langRegionCode": "th-TH"
+                      },
+                      {
+                        "url": "https://www.adidas.com.tr/en/terrex",
+                        "langRegionCode": "en-TR"
+                      },
+                      {
+                        "url": "https://www.adidas.com.tr/tr/terrex",
+                        "langRegionCode": "tr-TR"
+                      },
+                      {
+                        "url": "https://www.adidas.co.uk/terrex",
+                        "langRegionCode": "en-GB"
+                      },
+                      {
+                        "url": "https://www.adidas.com/us/terrex",
+                        "langRegionCode": "en-US"
+                      },
+                      {
+                        "url": "https://www.adidas.com.vn/en/terrex",
+                        "langRegionCode": "en-VN"
+                      },
+                      {
+                        "url": "https://www.adidas.com.vn/vi/terrex",
+                        "langRegionCode": "vi-VN"
+                      }
+                    ],
+                    "h3_overwrite": null,
+                    "theme": null,
+                    "seo_copy": null,
+                    "template": "ProductListingPage",
+                    "analytics_data": null,
+                    "disallowRules": null
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "url": "https://www.adidas.ru/api/chk/customer/baskets",
+    "data": {
+      "message": "Customer basket not found",
+      "errorCode": "NotFoundException"
+    }
+  },
+  {
+    "url": "https://www.adidas.ru/api/search/product/GZ9208",
+    "data": {
+      "_links": {
+        "self": {
+          "href": "/product"
+        }
+      },
+      "id": "GZ9208",
+      "link": "/sandalii-terrex-cyprex-ultra-ii-dlx/GZ9208.html",
+      "price": 7999,
+      "badgeStyle": "soldout",
+      "badgeText": "\u0420\u0430\u0441\u043f\u0440\u043e\u0434\u0430\u043d",
+      "salePrice": 7999,
+      "image": {
+        "cloudinary": true,
+        "src": "https://assets.adidas.com/images/w_280,h_280,f_auto,q_auto:sensitive/96be20f4c36c47c89713ad790092b135_9366/sandalii-terrex-cyprex-ultra-ii-dlx.jpg"
+      },
+      "secondImage": {
+        "cloudinary": true,
+        "src": "https://assets.adidas.com/images/w_280,h_280,f_auto,q_auto:sensitive/33082a277f1443619420ad7900927673_9366/sandalii-terrex-cyprex-ultra-ii-dlx.jpg"
+      },
+      "color": "Wonder White / Pulse Lime / Crystal White",
+      "modelId": "EPF47",
+      "orderable": false,
+      "isFlash": false,
+      "isFinalSale": false,
+      "isSpecialLaunch": false,
+      "specialLaunchType": "NONE",
+      "events": [],
+      "pdpImage": {
+        "cloudinary": true,
+        "src": "https://assets.adidas.com/images/w_280,h_280,f_auto,q_auto:sensitive/697a737db61e48b88cdfad7900926513_9366/sandalii-terrex-cyprex-ultra-ii-dlx.jpg"
+      },
+      "images": []
+    }
+  }
+]
