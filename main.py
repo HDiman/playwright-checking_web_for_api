@@ -3,9 +3,9 @@ import json
 
 # url_test = "https://www.fl.ru/projects/#/"
 # url_test = "https://media.5ka.ru/special_offers"
-# url_test = "https://www.championat.com/stat/football/#2022-05-26"
+url_test = "https://www.championat.com/stat/football/#2022-05-26"
 # url_test = "https://www.championat.com/stat/tournament/search/"
-url_test = "https://adidas.com/terrex"
+# url_test = "https://adidas.com/terrex"
 
 
 def test_json(response, results):
@@ -36,7 +36,7 @@ def run(playwright):
 
 with sync_playwright() as playwright:
     data = run(playwright)
-    with open('results.json5', 'w') as f:
-        json.dump(data, f)
+    with open('results.json', 'w', encoding='utf-8') as f:
+        json.dump(data, f, sort_keys=False, indent=4, ensure_ascii=False, separators=(',', ': '))
 
 
